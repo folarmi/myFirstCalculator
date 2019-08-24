@@ -1,0 +1,49 @@
+
+body{
+    box-sizing: border-box;
+    align-items: center;
+    background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
+    height: 100vh;
+    justify-content: center;   
+}
+
+#display{
+
+
+    /* padding: 2em;
+    margin: 2em;  */
+}
+
+button{
+    font-size: 3rem;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 5rem;
+    border-width: 0;
+    border-style: none;
+    margin: .875rem .875rem;
+}
+
+.calculator{
+    width: 31rem;
+    height:31rem;
+    border: .1rem solid #eeeeee;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size: 0; /* to get rid of the spacing between inline statements */ 
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 15px;
+    background-color: linear-gradient(236deg, #74ebd5, #acb6e5);
+}
+
+#display{
+    width: 29rem;
+    height: 8rem;
+    background-color: #eee;
+    border-radius: 5rem;
+    margin: .625rem .625rem;
+}
+
