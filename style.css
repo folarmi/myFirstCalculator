@@ -40,6 +40,10 @@ button{
     background-color: #eee;
     border-radius: 5rem;
     margin: .625rem .625rem;
-    /* font-size: 3px; */
+    font-size: 40px;
+}
+
+.calculator h1{
+    float: right;
 }
 
