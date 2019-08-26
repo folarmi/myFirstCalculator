@@ -7,43 +7,39 @@ body{
     justify-content: center;   
 }
 
-#display{
-
-
-    /* padding: 2em;
-    margin: 2em;  */
-}
 
 button{
-    font-size: 3rem;
-    height: 4rem;
-    width: 4rem;
+    font-size: 2rem;
+    height: 3rem;
+    width: 3.5rem;
     border-radius: 5rem;
     border-width: 0;
     border-style: none;
     margin: .875rem .875rem;
+    justify-content: center
 }
 
 .calculator{
-    width: 31rem;
-    height:31rem;
+    width: 25rem;
+    height:28rem;
     border: .1rem solid #eeeeee;
     margin: auto;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    font-size: 0; /* to get rid of the spacing between inline statements */ 
+    font-size: 15px; /* to get rid of the spacing between inline statements */ 
     padding: 1rem 1rem 1rem 1rem;
-    border-radius: 15px;
+    border-radius: 10px;
     background-color: linear-gradient(236deg, #74ebd5, #acb6e5);
 }
 
 #display{
-    width: 29rem;
-    height: 8rem;
+    width: 24rem;
+    height: 4rem;
     background-color: #eee;
     border-radius: 5rem;
     margin: .625rem .625rem;
+    /* font-size: 3px; */
 }
 
